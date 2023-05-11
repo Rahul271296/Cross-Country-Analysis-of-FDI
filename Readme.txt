@@ -1,3 +1,4 @@
+FOREIGN DIRECT INVESTMENT
 The project has a major goal to investigate various factors that are connected to the labor force and the economic freedom index, as well as the gross domestic product (GDP), in order to determine their impact on the inflow of foreign direct investment (FDI) into the country.
 
 Foreign direct investment refers to the investment made by foreign entities, such as individuals or corporations, into a country's economy. These investments may be made in various forms, such as building factories or acquiring ownership of a local business.
